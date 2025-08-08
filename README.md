@@ -1,9 +1,11 @@
 ## Hi there 👋
 
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6866c7661ed6bc62a25852e5?variant=dark" alt="roadmap.sh"/></a>
+
 <a href="https://app.daily.dev/teelock"><img src="./devcard.png" width="652" alt="TΞΞL❍CK M!th\lesh's Dev Card"/></a>
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6866c7661ed6bc62a25852e5?variant=dark" alt="roadmap.sh"/></a>
+
 
 <!--
 **teelock/teelock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
