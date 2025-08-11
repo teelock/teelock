@@ -45,7 +45,7 @@
 
 
 
----
+
 
 [![Peerlist](https://github-readme-badge.peerlist.io/api/teelock?style=for-the-badge)](https://peerlist.io/teelock)
 
@@ -56,15 +56,15 @@
   />
 </a>
 
-
+---
 
 <img width="1133" height="1160" alt="image" src="https://github.com/user-attachments/assets/0d149514-eb92-4666-8794-dd48f49cab6d" />
 
-
+---
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6866c7661ed6bc62a25852e5?variant=dark" alt="roadmap.sh"/></a>
 
 
-
+---
 
 <a href="https://app.daily.dev/teelock"><img src="https://api.daily.dev/devcards/v2/QXDVlGgKI4iyW2v1a0vLA.png?type=wide&r=2u4" width="652" alt="TΞΞL❍CK M!th\lesh's Dev Card"/></a>
 
