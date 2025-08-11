@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+
+[![Peerlist](https://github-readme-badge.peerlist.io/api/teelock?style=for-the-badge)](https://peerlist.io/teelock)
+
 <a href="https://peerlist.io/teelock">
   <img
     src="https://github-readme-badge.peerlist.io/api/teelock?style=for-the-badge"
@@ -7,7 +11,7 @@
   />
 </a>
 
-[![Peerlist](https://github-readme-badge.peerlist.io/api/teelock?style=for-the-badge)](https://peerlist.io/teelock)
+
 
 <img width="1133" height="1160" alt="image" src="https://github.com/user-attachments/assets/0d149514-eb92-4666-8794-dd48f49cab6d" />
 
