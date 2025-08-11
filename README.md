@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img width="1133" height="1160" alt="image" src="https://github.com/user-attachments/assets/0d149514-eb92-4666-8794-dd48f49cab6d" />
 
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6866c7661ed6bc62a25852e5?variant=dark" alt="roadmap.sh"/></a>
