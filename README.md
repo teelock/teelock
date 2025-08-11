@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+
+
+---
+
 <div id="gr_challenge_11627"
      style="border: 2px solid #EBE8D5; border-radius:10px; padding: 0 7px; max-width:230px; min-height:100px">
 
@@ -81,6 +86,11 @@
 
 
 
+---
+
+
+
+
 	<style>
 		#customize-list{
 			float:left;
@@ -146,7 +156,7 @@
 <a href="https://app.daily.dev/teelock"><img src="https://api.daily.dev/devcards/v2/QXDVlGgKI4iyW2v1a0vLA.png?type=wide&r=2u4" width="652" alt="TΞΞL❍CK M!th\lesh's Dev Card"/></a>
 
 
-
+---
 
 <!--
 **teelock/teelock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
