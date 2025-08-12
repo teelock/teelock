@@ -7,15 +7,17 @@
 
 
 
+## 🎶 Now Playing 
 
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5zciRA56qtHJtFlNGCyfe4)
 
+### Listen on Spotify
+[🎧 Play Track](https://open.spotify.com/track/5zciRA56qtHJtFlNGCyfe4)
 
-
----
 
 🎧 [Listen on Spotify](https://open.spotify.com/track/5zciRA56qtHJtFlNGCyfe4)
 
-
+*Click the badge or link above to listen on Spotify*
 
 ---
 
