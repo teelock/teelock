@@ -1,9 +1,26 @@
 ## Hi there 👋
 
+
+
+
+
+
+
+
+
+
+
+
+---
+
+🎧 [Listen on Spotify](https://open.spotify.com/track/5zciRA56qtHJtFlNGCyfe4)
+
+
+
 ---
 
 
-https://glasp.co/embed/?u=pLZ5nP2OybQA4OTvbu2sV3yLxQz2&n=100
+📝 https://glasp.co/embed/?u=pLZ5nP2OybQA4OTvbu2sV3yLxQz2&n=100
 
 
 ---
@@ -43,11 +60,6 @@ https://glasp.co/embed/?u=pLZ5nP2OybQA4OTvbu2sV3yLxQz2&n=100
 
 
 ---
-
-
-
-
-
 
 
 [![Peerlist](https://github-readme-badge.peerlist.io/api/teelock?style=for-the-badge)](https://peerlist.io/teelock)
