@@ -4,7 +4,27 @@
 
 
 
+### Featured Chess Game
 
+<a href="https://lichess.org/e6PGwH80" target="_blank">
+  <img src="https://lichess1.org/game/export/gif/e6PGwH80.gif" alt="Chess Game Animation" width="400">
+</a>
+
+*Click the animation above to view the full interactive game*
+
+---
+
+### Chess Game Analysis
+
+[![Lichess Game](https://lichess1.org/game/export/gif/e6PGwH80.gif)](https://lichess.org/e6PGwH80)
+
+**Game ID:** e6PGwH80  
+**Platform:** Lichess  
+**[► Play through the game interactively](https://lichess.org/e6PGwH80)**
+
+---
+
+[![View on Lichess](https://img.shields.io/badge/View%20on-Lichess-1976D2?style=for-the-badge&logo=lichess&logoColor=white)](https://lichess.org/e6PGwH80)
 
 
 ## 🎶 Now Playing 
