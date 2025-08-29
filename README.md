@@ -4,6 +4,16 @@
 
 
 
+
+<a href="https://www.goodreads.com/book/show/55539565-think-again" style="float: left; padding-right: 20px"><img border="0" alt="Think Again: The Power of Knowing What You Don't Know" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602574232l/55539565._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/55539565-think-again">Think Again: The Power of Knowing What You Don't Know</a> by <a href="https://www.goodreads.com/author/show/6583155.Adam_M_Grant">Adam M. Grant</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/3777419672">5 of 5 stars</a><br /><br />
+
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/67068596-t-l-ck-mith-lesh">View all my reviews</a>
+
+
+---
+
 ### Featured Chess Game
 
 <a href="https://lichess.org/e6PGwH80" target="_blank">
