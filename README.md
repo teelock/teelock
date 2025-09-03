@@ -5,6 +5,16 @@
 
 
 
+---
+<a href="https://www.goodreads.com/book/show/17802513-parallel-and-concurrent-programming-in-haskell" style="float: left; padding-right: 20px"><img border="0" alt="Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368811788l/17802513._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/17802513-parallel-and-concurrent-programming-in-haskell">Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming</a> by <a href="https://www.goodreads.com/author/show/5827559.Simon_Marlow">Simon Marlow</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/3892829812">5 of 5 stars</a><br /><br />
+<a target="_blank" rel="noopener nofollow" href="https://www.youtube.com/watch?v=gEWBHP0PvRw&t=10s">https://www.youtube.com/watch?v=gEWBH...</a>
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/67068596-t-l-ck-mith-lesh">View all my reviews</a>
+
+
+---
+
 <a href="https://www.goodreads.com/book/show/55539565-think-again" style="float: left; padding-right: 20px"><img border="0" alt="Think Again: The Power of Knowing What You Don't Know" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602574232l/55539565._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/55539565-think-again">Think Again: The Power of Knowing What You Don't Know</a> by <a href="https://www.goodreads.com/author/show/6583155.Adam_M_Grant">Adam M. Grant</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/3777419672">5 of 5 stars</a><br /><br />
 
