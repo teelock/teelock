@@ -5,6 +5,27 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+<a href="https://www.goodreads.com/book/show/220670847-accelerate-state-of-devops-report-2024" style="float: left; padding-right: 20px"><img border="0" alt="Accelerate State of DevOps Report 2024" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729623234l/220670847._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/220670847-accelerate-state-of-devops-report-2024">Accelerate State of DevOps Report 2024</a> by <a href="https://www.goodreads.com/author/show/45183964.DevOps_Research_and_Assessment_DORA_">DevOps Research and Assessment (DORA)</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/7888846050">5 of 5 stars</a><br /><br />
+
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/67068596-t-l-ck-mith-lesh">View all my reviews</a>
+
+
 ---
 <a href="https://www.goodreads.com/book/show/17802513-parallel-and-concurrent-programming-in-haskell" style="float: left; padding-right: 20px"><img border="0" alt="Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368811788l/17802513._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/17802513-parallel-and-concurrent-programming-in-haskell">Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming</a> by <a href="https://www.goodreads.com/author/show/5827559.Simon_Marlow">Simon Marlow</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/3892829812">5 of 5 stars</a><br /><br />
