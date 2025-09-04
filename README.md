@@ -13,8 +13,13 @@
 
 
 
+---
 
+<a href="https://www.goodreads.com/book/show/44141381-the-simulation-hypothesis" style="float: left; padding-right: 20px"><img border="0" alt="The Simulation Hypothesis" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551575615l/44141381._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/44141381-the-simulation-hypothesis">The Simulation Hypothesis</a> by <a href="https://www.goodreads.com/author/show/538646.Rizwan_Virk">Rizwan Virk</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/7889239773">5 of 5 stars</a><br /><br />
 
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/67068596-t-l-ck-mith-lesh">View all my reviews</a>
 
 
 ---
