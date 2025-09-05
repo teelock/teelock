@@ -9,8 +9,13 @@
 
 
 
+---
 
+<a href="https://www.goodreads.com/book/show/42397849-burnout" style="float: left; padding-right: 20px"><img border="0" alt="Burnout: The Secret to Unlocking the Stress Cycle" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551216612l/42397849._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/42397849-burnout">Burnout: The Secret to Unlocking the Stress Cycle</a> by <a href="https://www.goodreads.com/author/show/3517051.Emily_Nagoski">Emily Nagoski</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/3682551051">5 of 5 stars</a><br /><br />
 
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/67068596-t-l-ck-mith-lesh">View all my reviews</a>
 
 
 ---
