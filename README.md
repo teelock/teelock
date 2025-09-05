@@ -5,9 +5,14 @@
 
 
 
+---
 
+<a href="https://www.goodreads.com/book/show/203036202-practical-web-accessibility" style="float: left; padding-right: 20px"><img border="0" alt="Practical Web Accessibility: A Comprehensive Guide to Digital Inclusion" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715946636l/203036202._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/203036202-practical-web-accessibility">Practical Web Accessibility: A Comprehensive Guide to Digital Inclusion</a> by <a href="https://www.goodreads.com/author/show/19693767.Ashley_Firth">Ashley Firth</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/7891504200">5 of 5 stars</a><br /><br />
 
-
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/67068596-t-l-ck-mith-lesh">View all my reviews</a>
+ 
 
 ---
 
