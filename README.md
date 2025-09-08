@@ -31,6 +31,11 @@ TΞΞL❍CK M!th\lesh's Weekly Stats 📊
 
 ---
 
+<a href="https://www.goodreads.com/book/show/13121614-astrology-at-the-speed-of-light" style="float: left; padding-right: 20px"><img border="0" alt="Astrology at the Speed of Light" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433387444l/13121614._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/13121614-astrology-at-the-speed-of-light">Astrology at the Speed of Light</a> by <a href="https://www.goodreads.com/author/show/3379681.Kapiel_Raaj">Kapiel Raaj</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/6956378848">5 of 5 stars</a><br /><br />
+"Astrology at the Speed of Light" by Kapiel Raaj offers an accessible introduction to astrology, aiming to demystify its principles for beginners. The book is noted for its straightforward approach, making complex concepts easier to grasp. Readers appreciate its clarity, especially those new to astrology, as it provides foundational knowledge without overwhelming detail. <br /><br />However, some critiques highlight that while the book covers basic information, it may not suffice for those seeking deeper insights or advanced techniques. A few reviewers mention that it requires supplementary resources for a more comprehensive understanding of astrological charts and interpretations. Overall, it serves as a good starting point for those curious about astrology but might leave more experienced readers wanting more depth
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/67068596-t-l-ck-mith-lesh">View all my reviews</a>
 
 ---
 
