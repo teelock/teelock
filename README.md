@@ -19,8 +19,13 @@
 
 
 
+---
 
+<a href="https://www.goodreads.com/book/show/22085568-the-culture-map" style="float: left; padding-right: 20px"><img border="0" alt="The Culture Map: Breaking Through the Invisible Boundaries of Global Business" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488319495l/22085568._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/22085568-the-culture-map">The Culture Map: Breaking Through the Invisible Boundaries of Global Business</a> by <a href="https://www.goodreads.com/author/show/7178109.Erin_Meyer">Erin Meyer</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/3892722293">5 of 5 stars</a><br /><br />
 
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/67068596-t-l-ck-mith-lesh">View all my reviews</a>
 
 
 ---
