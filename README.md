@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<!-- <p>This paragraph is hidden from the browser</p> -->
 
 
 
@@ -9,14 +10,26 @@
 
 
 
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/255c10a1-6d38-4e96-be53-bba6b70f94ad" />
+
+TΞΞL❍CK M!th\lesh's Weekly Stats 📊
+---
+📝 [View my reading highlights →](./highlights.html)    [ on Glasp](https://glasp.co/embed/?u=pLZ5nP2OybQA4OTvbu2sV3yLxQz2&n=100)
+---
 
 
 
+---
+[![My Glasp Highlights](https://img.shields.io/badge/📚%20Reading-Glasp%20Highlights-orange)](https://glasp.co/embed/?u=pLZ5nP2OybQA4OTvbu2sV3yLxQz2&n=100)
+
+---
+
+[![Glasp Profile](https://img.shields.io/badge/Glasp-View%20Highlights-blue?style=for-the-badge&logo=bookmark)](https://glasp.co/embed/?u=pLZ5nP2OybQA4OTvbu2sV3yLxQz2&n=100)
+
+---
 
 
-
-
-
+---
 
 
 ---
@@ -130,7 +143,7 @@ My rating: <a href="https://www.goodreads.com/review/show/3777419672">5 of 5 sta
 ---
 
 
-📝 https://glasp.co/embed/?u=pLZ5nP2OybQA4OTvbu2sV3yLxQz2&n=100
+ 
 
 
 ---
