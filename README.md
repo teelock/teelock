@@ -17,7 +17,12 @@ TΞΞL❍CK M!th\lesh's Weekly Stats 📊
 📝 [View my reading highlights →](./highlights.html)    [ on Glasp](https://glasp.co/embed/?u=pLZ5nP2OybQA4OTvbu2sV3yLxQz2&n=100)
 ---
 
+---
+<a href="https://www.goodreads.com/book/show/60794855-strong-female-character" style="float: left; padding-right: 20px"><img border="0" alt="Strong Female Character" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682680828l/60794855._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/60794855-strong-female-character">Strong Female Character</a> by <a href="https://www.goodreads.com/author/show/30382951.Fern_Brady">Fern  Brady</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/6286977638">5 of 5 stars</a><br /><br />
 
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/67068596-t-l-ck-mith-lesh">View all my reviews</a>
 
 ---
 [![My Glasp Highlights](https://img.shields.io/badge/📚%20Reading-Glasp%20Highlights-orange)](https://glasp.co/embed/?u=pLZ5nP2OybQA4OTvbu2sV3yLxQz2&n=100)
